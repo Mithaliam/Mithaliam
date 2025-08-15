@@ -11,17 +11,16 @@
   <code><a href="https://github.com/Mithaliam" title="GitHub Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub</a></code>
 </h5>
 <br>
+
 <p align="center">
   Hi, I'm Mithali A M, a Computer Science and Engineering undergraduate at Navkis College of Engineering, Hassan.
-  <br>
-  <br>
-  🎯 Seeking an entry-level Software or Web Developer role to apply my skills in innovative solutions.  
-  <br>
-  💻 Passionate about Cybersecurity, Web Development, and AI-powered applications.  
-  <br>
-  📚 Experienced in VAPT, Flutter, PHP, MySQL, CNN-based deep learning, and ASP.NET.  
-  <br>
-  📫 How to reach me: <a href="mailto:mithalimithali36@gmail.com">mithalimithali36@gmail.com</a>
+  <br><br>
+  <ul>
+    <li>🎯 Seeking an <b>entry-level Software or Web Developer role</b> to apply my skills in innovative solutions.</li>
+    <li>💻 Passionate about <b>Cybersecurity, Web Development, and AI-powered applications</b>.</li>
+    <li>📚 Experienced in <b>VAPT, Flutter, PHP, MySQL, CNN-based deep learning, and ASP.NET</b>.</li>
+    <li>📫 How to reach me: <a href="mailto:mithalimithali36@gmail.com">mithalimithali36@gmail.com</a></li>
+  </ul>
 </p>
 
 <hr>
